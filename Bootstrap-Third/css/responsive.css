@@ -1,0 +1,33 @@
+@media (min-width:1200px){
+}
+
+@media (max-width:1024px){
+   .input-group,.header-from {width:75%;}
+}
+
+@media(max-width:768px){
+.input-group, .header-from{width: 60%}
+.header-nav .nav-link{}
+.header-nav{padding-right: 0px; padding-left: 0px;}
+.nav-link-sell{padding:5px 2px; }
+.logo02{padding-top: 12px;}
+.navbar-toggler{position: absolute; right:0px; top: 0px;}
+.navbar-toggler i{color: #fff; font-size: 39px}
+.nav-list{min-height: 60px;}
+.nav-list .navbar-collapse{padding-top: 30px;}
+.gap{width: 49%; margin-bottom: 20px;}
+.buyorcell{display: none;}
+.truck-img h3{width: 35%}
+}
+
+@media (max-width:640px){
+.logo02{text-align: center;}
+.header-nav{padding: 0 20px;}
+.head-img{min-height:258px;}
+.gap{width: 98%}
+.position-relative{text-align: center;}
+.truck-img{min-height:293px;}
+}
+
+@media (max-width:460px){
+}
